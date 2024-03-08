@@ -1,0 +1,48 @@
+body {
+  background-color:  #ADD8E6;
+}
+
+header {
+  background-image: linear-gradient(to bottom, #3eafd5, #ADD8E6)
+}
+
+.section-title {
+  font-family: "Cutive Mono", monospace;
+}
+
+.text-colored {
+  color: #800080;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+#home h2 {
+  border-bottom: 1px solid #800080;
+}
+
+#cabecalho nav
+.nav-link.active {
+  background-color: #800080;
+  color: #fff;
+}
+
+.social-links li {
+  list-style: none;
+  display: inline;
+}
+
+.social-links li a {
+  text-decoration: none;
+}
+
+#contato button:hover {
+  border-radius: 8px;
+}
+
+.btn-primary,
+.btn-primary:hover {
+  background-color: #800080;
+  border: none;
+}
